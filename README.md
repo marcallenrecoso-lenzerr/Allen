@@ -8,8 +8,6 @@
 
 **'Skills'**
 
-Cooking
-| Racing Motorcycle | Drawing |
-|-------|-----------|---------|
+
 
 
