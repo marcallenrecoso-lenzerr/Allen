@@ -8,8 +8,8 @@
 
 |SKILLS|
 |------|
-|*RACING|MOTORCYCLE|
-|*j
+|*RACING|
+|*COOKING|
 
 
 
