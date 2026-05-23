@@ -6,7 +6,10 @@
 |------|-------------|
 | Student | Engineering Student |
 
-**'Skills'**
+|SKILLS|
+|------|
+|*RACING|
+|*
 
 
 
