@@ -8,7 +8,7 @@
 
 **'Skills'**
 
-Cooking
-Racing Motorcycle
-Drawing
+|-Cooking----------- |
+|-Racing Motorcycle- |
+|-Drawing----------- |
 
