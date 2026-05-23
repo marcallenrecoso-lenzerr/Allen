@@ -5,3 +5,10 @@
 | Role | Institution |
 |------|-------------|
 | Student | Engineering Student |
+
+**'Skills'**
+
+Cooking
+Racing Motorcycle
+Drawing
+
