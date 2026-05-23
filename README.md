@@ -8,7 +8,7 @@
 
 |SKILLS|
 |------|
-|*RACING|Motorcycle*|
+|*RACING|MOTORCYCLE|
 |*j
 
 
