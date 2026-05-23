@@ -1,6 +1,6 @@
 # Marc Allen R. Recoso 
 
-**'Playing mobile games • coding'**
+**'Playing mobile games cooking • coding'**
 **'Elnido Palawan'**
 | Role | Institution |
 |------|-------------|
